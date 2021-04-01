@@ -1,0 +1,1 @@
+# tendermint-nuxt-template
