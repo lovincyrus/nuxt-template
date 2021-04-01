@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Features
+- Mobile-first CSS architecture
+- [rfs](https://github.com/twbs/rfs)
