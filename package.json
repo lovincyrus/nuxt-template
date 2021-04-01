@@ -25,7 +25,8 @@
     "nuxt": "^2.15.3",
     "pug": "^3.0.2",
     "pug-plain-loader": "^1.1.0",
-    "rfs": "^9.0.3"
+    "rfs": "^9.0.3",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@aceforth/nuxt-optimized-images": "^1.4.0",
