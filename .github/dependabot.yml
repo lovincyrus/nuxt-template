@@ -8,9 +8,7 @@ updates:
     time: '00:00'
   open-pull-requests-limit: 10
   reviewers:
-    - cyrus goh
-  assignees:
-    - cyrus goh
+    - lovincyrus
   commit-message:
     prefix: fix
     prefix-development: chore
