@@ -42,7 +42,7 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "normalize.css": "^8.0.1",
-    "prettier": "^2.2.1",
+    "prettier": "^2.3.2",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2"
   }
